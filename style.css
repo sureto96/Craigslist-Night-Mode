@@ -1,0 +1,267 @@
+body {
+    line-height: 2;
+    color: #FFF !important;
+    background-color: rgba(79,91,102,1) !important;
+}
+
+a.header-logo {
+background-color: #232323;
+color: white;
+font-weight: 900;
+}
+
+body a {
+color: #FFF;
+font-weight: bolder;
+}
+
+.search-options-container {
+background-color: rgba(52,61,70,1) !imporant;
+}
+
+.search-options {
+background-color: rgba(52,61,70,1) !important;
+}
+
+.result-row {
+background-color: rgba(137,133,136,1) !important;
+}
+
+.result-price {
+background-color: #232323 !important;
+color: #FFF !important;
+}
+
+.linklike {
+color: white !important;
+}
+
+aside.tsb {
+background-color: #2323;
+border-radius: 5px;
+}
+
+.search-options-container, .querybox, .flatinput {
+background-color: rgba(52,61,70,1);
+color: #FFF !important;
+}
+
+#searchform.search-form * {
+background-color: rgba(52,61,70,1) !important;    
+color: #FFF !important
+}
+
+
+.form-tab{
+background-color: #232323 !important;
+color: white !important;
+}
+
+/* GENERAL BODY STYLES */
+
+/* TOP BANNER */
+
+.regular-area {
+background-color: rgba(52,61,70,1) !important;
+border: solid 1px #FFF !important;
+}
+
+nav h2  {
+color: #FFF !important;
+font-weight: bolder;
+font-size: 36px !important;
+}
+
+/* TOP BANNER */
+
+
+/* LEFT SIDEBAR */
+
+#leftbar {
+background: rgba(52,61,70,1) !important;
+border-radius: 5px;
+border: solid 1px white;
+}
+
+#leftbar a:hover {
+color: rgba(93,171,219,1) !important;
+}
+
+#leftbar a {
+color: white !important;
+font-size: 14px;
+}
+
+#leftbar legend {
+color: white;
+font-weight: bold;
+}
+
+#logo a {
+font-size: 30px !important;
+}
+
+#logo {
+color: white !important;
+}
+
+.homepage #postlks li {
+background-color: rgba(167,173,186,0.6) !important;
+border-radius: 20px !important;
+margin: 5px !important;
+}
+
+.homepage #postlks #post {
+background-color: rgba(0,0,0,0.0) !important;
+}
+
+#leftbar table {
+width: 90% !important;
+}
+
+#leftbar tr.days {
+background-color: #323232 !important;
+color: #FFF !important;
+}
+
+#leftbar td {
+background-color: rgba(192,197,206,1) !important;
+}
+
+#leftbar td.today {
+background-color: rgba(101,115,126,0.5) !important;
+}
+
+/* LEFT SIDEBAR */
+
+
+/* CENTER CONTENT */
+
+#center li {
+text-align: center;
+}
+
+#center h4 {
+font-size: 16px;
+background-color:rgba(52,61,70,1) !important;
+color: white !important;
+}
+
+#center ul{
+background-color: rgba(0,0,0,0.0) !important;
+}
+
+#center a {
+text-decoration: none !important;
+background-color: rgba(52,61,70,1) !important;
+color: #FFF !important;
+border-radius: 4px;
+margin-bottom: 5px;
+}
+
+#rightbar {
+background: rgba(52,61,70,1) !important;
+border-radius: 5px !important;
+border: solid 1px white !important;
+}
+
+#rightbar a {
+text-decoration: none !important;
+color: white !important;
+}
+
+#rightbar h5 {
+color: white !important;
+}
+
+#rightbar h5.active {
+color: rgba(52,61,70,1) !important;
+}
+
+/* CENTER CONTENT */
+
+/* FOOTER */
+
+footer {
+background-color: rgba(52,61,70,1) !important;
+color: white !important
+}
+
+footer li, footer a {
+color: white !important
+}
+
+/* POSTING PAGE */
+
+header.global-header {
+background-color: rgba(52,61,70,1) !important;
+text-decoration-color:  color: #FFF;
+}
+
+header.global-header a {
+color: white;
+}
+
+#loginWidget {
+background-color: #232323;
+border-radius: 5px;
+}
+
+#loginWidget a {
+color: #FFF;
+font-weight: bold;
+}
+
+label, .label {
+color: #FFF;
+}
+
+fieldset {
+background-color: rgba(52,61,70,1);
+color: #FFF;
+border-radius: 5px;
+}
+
+legend {
+font-weight: bolder;
+}
+
+.row.fields label {
+color: #FFF !important;
+}
+
+#perms label {
+text-decoration: underline;
+color: #FFF !important;
+}
+
+/* POSTING PAGE */
+
+.posting .flaglink {
+color: #FFF;
+font-weight: bolder;
+background: rgba(52,61,70,1);
+border: solid 1px #FFF;
+border-radius: 5px;
+}
+
+.posting a {
+color: #FFF;
+}
+
+.reply_button {
+color: #FFF;
+background-color: rgba(52,61,70,1) !important;
+border: solid 1px #FFF;
+border-radius: 5px;
+font-weight: bolder;
+}
+
+.reply-flap * {
+color: #000 !important;
+}
+
+.mapAndAttrs span {
+background-color: rgba(52,61,70,1) !important;
+color: #FFF;
+}
